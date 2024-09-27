@@ -85,11 +85,11 @@ export function Projects() {
   ];
 
   const openSnitchGithub = (link) => {
-    window.open(link, "_blank");
+    // window.open(link, "_blank");
   };
 
   const openSnitch = (link) => {
-    window.open(link, "_blank");
+    // window.open(link, "_blank");
   };
 
   return (
