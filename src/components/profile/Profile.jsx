@@ -6,7 +6,7 @@ import { FaLinkedin } from "react-icons/fa6";
 import pdf from '../../assets/Resume.pdf'
 const ProfileSection = () => {
   const handleResumeClick = () => {
-    window.open(pdf);
+    // window.open(pdf);
   };
 
 
