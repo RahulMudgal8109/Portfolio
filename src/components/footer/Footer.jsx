@@ -25,7 +25,7 @@ const SocialIcons = () => {
           Thanks for checking my website!
         </h1>
         {/* <p className='text-2xl font-extrabold'>get in touch (Click to copy)</p> */}
-        <p className=" text-xl font-extrabold">mohitchoudharu2gmail.com</p>
+        <p className=" text-xl font-extrabold">rshomerton2001@gmail.com</p>
       </div>
       <ul className="wrapper">
         <li className="icon facebook" onClick={handleLinkedInClick}>
