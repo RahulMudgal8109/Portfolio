@@ -15,22 +15,22 @@ const ProfileSection = () => {
   };
 
   const handleLinkedInClick = () => {
-    window.location.href = 'https://www.linkedin.com/in/mohit-chaudhary-615972238/';
+   
   };
 
   const handleGithubClick = () => {
-    window.location.href = 'https://github.com/mohit15-web';
+   
   };
   
 
   return (
     <section id="profile">
       <div className="section__pic-container">
-        <img src={mohitPic} alt="mohit profile picture" className='mohitPic'/>
+        
       </div>
       <div className="section__text">
         <p className="section__text__p1 text-slate-500 text-4xl">Hello, I'm</p>
-        <h1 className="title text-white text-6xl">Mohit Chaudhary</h1>
+        <h1 className="title text-white text-6xl">Rahul Sharma</h1>
         <p className="section__text__p2 text-slate-500 text-4xl">Full-Stack Developer</p>
         <div className="btn-container">
           <button className=" text-white border px-3 font-bold rounded-lg py-1 hover:text-black hover:bg-white" onClick={handleResumeClick}>
